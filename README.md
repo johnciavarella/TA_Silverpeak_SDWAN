@@ -3,4 +3,5 @@ This ia a TA for Silverpeak's SD WAN Product
 
 NOT CIM compliant. 
 
-[Product Page](https://www.silver-peak.com/)
+[Vendor Page](https://www.silver-peak.com/)
+[Product Page](https://www.silver-peak.com/sites/default/files/UserDocuments/SDWAN-HTML/)
